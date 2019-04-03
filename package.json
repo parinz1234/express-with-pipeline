@@ -1,0 +1,14 @@
+{
+  "name": "express-with-pipeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/parinz1234/express-with-pipeline.git",
+  "author": "Parinya Onsuwan <parinya.ons@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+      "start": "node app.js"
+  }
+}
