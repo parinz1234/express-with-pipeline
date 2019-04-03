@@ -9,6 +9,11 @@
     "express": "^4.16.4"
   },
   "scripts": {
-      "start": "node app.js"
+    "start": "node app.js",
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
   }
 }
