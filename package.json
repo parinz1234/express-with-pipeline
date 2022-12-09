@@ -6,7 +6,7 @@
   "author": "Parinya Onsuwan <parinya.ons@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   },
   "scripts": {
       "start": "node app.js"
